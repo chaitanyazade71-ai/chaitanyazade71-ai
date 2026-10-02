@@ -6,7 +6,7 @@
 <!-- STABLE HERO HEADER -->
 <div align="center">
   <br/>
-  <h1>🚀 Chaitanya Zade</h1>
+  <h1>👋 Hey I'm Chaitanya Zade</h1>
   <p><strong>Backend Software Engineer &bull; Distributed Systems &bull; RESTful APIs</strong></p>
   <p>📍 Maharashtra, India</p>
 

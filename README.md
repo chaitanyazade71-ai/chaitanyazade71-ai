@@ -3,15 +3,15 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:00e599&height=4&width=100%" alt="Header Line" />
 </p>
 
-<!-- STABLE HERO HEADER -->
+<!-- HERO HEADER -->
 <div align="center">
   <br/>
   <h1>👋 Hey I'm Chaitanya Zade</h1>
-  <p><strong>Backend Software Engineer &bull; Distributed Systems &bull; RESTful APIs</strong></p>
+  <p><strong>Backend Developer &bull; RESTful APIs &bull; Database Architecture</strong></p>
   <p>📍 Maharashtra, India</p>
 
   <a href="https://github.com/chaitanyazade71-ai">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00E599&center=true&vCenter=true&width=650&lines=Software+Development+Engineer+(Backend);Building+Scalable+Microservices+%26+RESTful+APIs;TypeScript+%7C+Node.js+%7C+Express+%7C+MongoDB;Optimizing+Database+Schemas+%26+System+Throughput" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00E599&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Node.js+%26+TypeScript;Building+Secure+REST+APIs+with+JWT+%26+Zod;MongoDB+Data+Modeling+%26+Mongoose+Pipelines;Exploring+Data+Structures+%26+Algorithms+in+Java" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -32,47 +32,47 @@
 
 ---
 
-### 👨‍💻 Executive Summary
+### 👨‍💻 About Me
 
-Backend Software Engineer specializing in designing robust microservices, high-throughput RESTful APIs, and secure database architectures[cite: 1, 17]. Experienced in building production systems with **Node.js**, **TypeScript**, and **MongoDB**, with an emphasis on domain isolation, request validation, and zero-trust authentication pipelines[cite: 1, 17].
+Backend Developer experienced in building scalable web applications, secure REST APIs, and structured database schemas. Focused on modular backend design, strict request validation, and production-tested authentication patterns.
 
-- ⚙️ **Core Focus:** Modular backend architecture, stateless API design, and distributed data modeling[cite: 1, 17].
-- 🔒 **Security & Reliability:** Stateless JWT route protection, bcrypt password hashing, Zod schema validation, and defensive error-handling layers[cite: 1, 17].
-- 📐 **System Design:** Implementing database aggregation pipelines, relational document indexing, and caching patterns[cite: 1, 17].
-- 💼 **Availability:** Open for Backend and Full-Stack Software Engineering opportunities[cite: 1, 17].
-
----
-
-### 🛠 Core Technical Competencies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mongodb,mysql,java,react,git,github,postman,vscode" alt="Skills" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=rest&logoColor=white" alt="REST" />
-  <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/Zod_Validation-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
-  <img src="https://img.shields.io/badge/bcrypt_Hashing-4B8BBE?style=flat-square" alt="bcrypt" />
-  <img src="https://img.shields.io/badge/Mongoose_ORM-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" />
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="Atlas" />
-  <img src="https://img.shields.io/badge/MVC_Architecture-6C757D?style=flat-square" alt="MVC" />
-</p>
+- ⚙️ **Core Focus:** Building robust backend services using Node.js, Express.js, TypeScript, and MongoDB.
+- 🔒 **Security & Clean Code:** Stateless JWT authentication, bcrypt password hashing, Zod schema validation, and MVC architecture.
+- 📚 **Currently Exploring:** Data Structures & Algorithms (Java), System Design Fundamentals, and Backend Deployment workflows.
+- 💼 **Availability:** Open for Backend and Full-Stack Software Engineering opportunities.
 
 ---
 
-### 🚀 Production Systems & Architecture
+### 🛠 Tech Stack
 
-| System | Architecture & Engineering Highlights | Core Stack | Live / Source |
+<div align="center">
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend & Architecture** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=rest&logoColor=white) ![MVC](https://img.shields.io/badge/MVC_Architecture-6C757D?style=flat-square) |
+| **Authentication & Security** | ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Zod](https://img.shields.io/badge/Zod_Validation-3E67B1?style=flat-square&logo=zod&logoColor=white) ![bcrypt](https://img.shields.io/badge/bcrypt_Hashing-4B8BBE?style=flat-square) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) ![Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **Developer Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| **AI Dev Tools** | ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-00A67E?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white) |
+
+</div>
+
+---
+
+### 🚀 Projects
+
+| Project | Highlights | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **TextileHub**[cite: 1, 17] | End-to-end B2B commerce platform connecting fabric producers and enterprise buyers[cite: 1, 17]. Built scalable RESTful inventory queries, filtering pipelines, and responsive frontend dashboards[cite: 1, 17]. | React.js, Node.js, Express.js, MongoDB[cite: 1, 17] | [🌐 Live Deployment](https://textilehub-marketplace.vercel.app/)[cite: 1, 17] |
-| **Brainly Backend**[cite: 1, 17] | High-performance knowledge platform backend featuring strict schema validation via Zod, normalized document relationships using Mongoose `ObjectId`/`populate()`, and route-guard middleware[cite: 1, 17]. | TypeScript, Node.js, Express.js, MongoDB[cite: 1, 17] | [💻 View Codebase](https://github.com/chaitanyazade71-ai/brainly-backend) |
-| **Course Platform Backend**[cite: 1, 17] | Role-Based Access Control (RBAC) platform isolating Administrator and Consumer workflows[cite: 1, 17]. Modular domain architecture handling course publishing lifecycles and transactional checkout logic[cite: 1, 17]. | TypeScript, Node.js, Express.js, MongoDB[cite: 1, 17] | [💻 View Codebase](https://github.com/chaitanyazade71-ai/course-selling-platform-backend) |
-| **Expense Tracker API**[cite: 1, 17] | Financial ledger engine with strict per-tenant data partitioning[cite: 1, 17]. Features aggregation pipelines computing periodic balance clustering and category breakdowns with zero cross-tenant data leakage[cite: 1, 17]. | TypeScript, Node.js, Express.js, JWT[cite: 1, 17] | [💻 View Codebase](https://github.com/chaitanyazade71-ai) |
+| **TextileHub** | MERN marketplace connecting textile buyers and sellers with search filters, dynamic catalog listings, and responsive UI. | React.js, Node.js, Express.js, MongoDB | [🌐 Live Demo](https://textilehub-marketplace.vercel.app/) |
+| **Brainly Backend** | Knowledge-sharing backend engine featuring route-protection middleware, schema references via `ObjectId`/`populate()`, and Zod request validation. | TypeScript, Node.js, Express.js, MongoDB, JWT | [💻 View Codebase](https://github.com/chaitanyazade71-ai/brainly-backend) |
+| **Course Platform Backend** | Role-Based Access Control (RBAC) platform separating Admin and User workflows. Modular architecture handling course publishing and purchase lifecycles. | TypeScript, Node.js, Express.js, MongoDB | [💻 View Codebase](https://github.com/chaitanyazade71-ai/course-selling-platform-backend) |
+| **Expense Tracker API** | Financial tracking service with isolated user scopes, complete CRUD endpoints, and MongoDB aggregation pipelines by category and date. | TypeScript, Node.js, Express.js, JWT, MongoDB | [💻 View Codebase](https://github.com/chaitanyazade71-ai) |
 
 ---
 
-### 📊 Real-Time Activity & Telemetry
+### 📊 GitHub Activity & Stats
 
 <div align="center">
   <table border="0">
@@ -89,16 +89,23 @@ Backend Software Engineer specializing in designing robust microservices, high-t
   <p>
     <img src="https://streak-stats.demolab.com?user=chaitanyazade71-ai&theme=tokyonight&hide_border=true&ring=00e599&fire=00e599&currStreakLabel=00e599" alt="GitHub Streak" />
   </p>
+
+  <br/>
+
+  <!-- CONTRIBUTION SNAKE -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chaitanyazade71-ai/chaitanyazade71-ai/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chaitanyazade71-ai/chaitanyazade71-ai/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/chaitanyazade71-ai/chaitanyazade71-ai/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
 </div>
 
 ---
 
-### 📜 Engineering Programs & Certifications
+### 📜 Certifications & Programs
 
-* **Backend Development Program** — *100xDevs*[cite: 1, 17]
-  * In-depth engineering covering asynchronous concurrency, scalable server architecture, ORMs, and TypeScript-driven microservices[cite: 1, 17].
-* **Google Developer Virtual Internship** — *AICTE Eduskills*[cite: 1, 17]
-  * Practical curriculum centered on enterprise code review workflows, cloud deployment standards, and agile systems engineering[cite: 1, 17].
+* **Backend Development Program** — *100xDevs*
+* **Google Developer Virtual Internship** — *AICTE Eduskills*
 
 ---
 
